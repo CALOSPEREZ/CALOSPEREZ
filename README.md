@@ -7,8 +7,8 @@
  ```javascript
 const CARLOSPEREZ = {
   code: [ Laravel, PHP, Nodejs, Javascript, TypeScript, Nest.js , Dart, Golang, Html, CSS, Firebase, MySQL, Firebase, MongoDB],
-  tools: [Git, Asana, Trello, Slack, VSCode],
-  SO: [Mac OS, Windows],
+  tools: [Trello, Asana Git, Slack, VSCode],
+  SO: [Windows, linux , Mac OS],
   agile: [Scrum],
 }
 ```
